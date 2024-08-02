@@ -1,0 +1,10 @@
+cp /home/pakiny/Escritorio/Ozono/prueba7-paco-20240422T023247Z-001/prueba6-dens-O3/T103K/epsilon.xvg .
+mv epsilon.xvg epsilon103.xvg
+cp /home/pakiny/Escritorio/Ozono/prueba7-paco-20240422T023247Z-001/prueba6-dens-O3/T118K/epsilon.xvg .
+mv epsilon.xvg epsilon118.xvg
+cp /home/pakiny/Escritorio/Ozono/prueba7-paco-20240422T023247Z-001/prueba6-dens-O3/T138K/epsilon.xvg .
+mv epsilon.xvg epsilon138.xvg
+cp /home/pakiny/Escritorio/Ozono/prueba7-paco-20240422T023247Z-001/prueba6-dens-O3/T155K/epsilon.xvg .
+mv epsilon.xvg epsilon155.xvg
+cp /home/pakiny/Escritorio/Ozono/prueba7-paco-20240422T023247Z-001/prueba6-dens-O3/T180K/epsilon.xvg .
+mv epsilon.xvg epsilon180.xvg
